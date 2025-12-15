@@ -1,8 +1,8 @@
-### Projet AlgoBox - \[Boyaux-Laugiers AXEL, Llorca LUCA]
+### Projet AlgoBox - \[Boyaux-Laugiers AXEL, Llorca LUCA, Bamba Van de Wiele]
 
 Description
 
-Ce projet contient les algorithmes réalisés pour le TP 
+Ce projet contient les algorithmes réalisés pour le TP
 
 
 
